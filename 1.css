@@ -1,0 +1,13 @@
+ body{
+ 	background-image: url(img/img1.jpg);
+ }
+ h1{
+ 	color: #9F0050;
+ 	text-align: center;
+ }
+ p{
+ 	background: #FFD0FF;
+ }
+ .text1{
+	text-decoration: underline;
+ }
